@@ -1,5 +1,5 @@
 
-const API_BASE_URL = import.meta.env.VITE_API_BASE_URL || " https://student-grievance-portal-api.onrender.com";
+const API_BASE_URL = "https://student-grievance-portal-api.onrender.com/api";
 
 export async function apiRequest(endpoint, options = {}) {
   const response = await fetch(`${API_BASE_URL}${endpoint}`, {
