@@ -6,7 +6,7 @@ The portal aims to make the grievance redressal process more accessible, organiz
 
 ## 🌐 Live Demo
 
-- **Frontend:** [Open Student Grievance Portal](https://jocular-fairy-e97e6c.netlify.app)
+- **Frontend:** [Open Student Grievance Portal](https://jocular-fairy-e97e6c.netlify.app/)
 - **Backend API:** https://student-grievance-portal-api.onrender.com
 - **GitHub Repository:** [View Source Code](https://github.com/joshillyy/student-grievance-portal)
 
