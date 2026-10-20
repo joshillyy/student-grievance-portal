@@ -12,6 +12,29 @@ The portal aims to make the grievance redressal process more accessible, organiz
 
 > Replace `YOUR_NETLIFY_URL` and `YOUR_GITHUB_REPOSITORY_URL` with your actual URLs.
 
+## 🚀 How to Open and Use the Project
+
+### Step 1: Check the Backend
+
+Open the backend API link in your browser:
+
+ Backend API link above in live demo.
+
+Check whether the server responds: API Running
+
+### Step 2: Open the Live Website
+
+Click the live link above to access the application:
+
+Frontend link above in live demo.
+
+### Step 3: Register and Use the Application
+
+- Register as a student.
+- Log in using your registered credentials.
+- Submit a grievance.
+- View and track your submitted grievances.
+
 ## ✨ Features
 
 ### 👨‍🎓 Student Module
@@ -23,14 +46,6 @@ The portal aims to make the grievance redressal process more accessible, organiz
 - View previously submitted grievances.
 - Track grievance status and updates.
 - View recent grievances on the dashboard.
-
-### 🛡️ Admin Module
-- Secure administrator authentication.
-- View grievances submitted by students.
-- Access student details associated with grievances.
-- Update grievance status.
-- Add administrative remarks.
-- Monitor grievance progress.
 
 ### ⚙️ General Features
 - Responsive web interface.
@@ -250,16 +265,6 @@ Grievances can move through the following statuses:
 - Environment variables are used for sensitive configuration.
 - Database access should be restricted and credentials kept private.
 - Production deployments should use HTTPS and strong administrator credentials.
-
-## 🔮 Future Enhancements
-
-- Email and in-app notifications.
-- File attachments and supporting evidence.
-- Grievance search, filtering, and pagination.
-- Analytics and reports for administrators.
-- Role-based dashboards for different institutional departments.
-- Grievance feedback and satisfaction ratings.
-- Audit logs for administrative actions.
 
 ## 🎯 Project Objective
 
