@@ -119,9 +119,9 @@ student-grievance-portal/
 └── README.md
 ```
 
-*The structure above reflects the main project files; additional files may exist in your repository.*
+*The structure above reflects the main project files; additional files may exist in repository.*
 
-## 💻 Run the Project Locally
+## 💻 To Run the Project Locally
 
 ### Prerequisites
 
