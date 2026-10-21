@@ -200,7 +200,6 @@ Open the local URL displayed by Vite in your terminal.
 | `PORT` | Backend port; defaults to `5000` |
 | `VITE_API_BASE_URL` | Frontend API base URL, including `/api` |
 
-Never commit real database credentials, JWT secrets, or other sensitive information to GitHub.
 
 ## 🚀 Deployment
 
@@ -230,7 +229,8 @@ Never commit real database credentials, JWT secrets, or other sensitive informat
 3. Configure network access for the backend service.
 4. Add the Atlas connection string as `MONGO_URI` in Render.
 
-Keep database credentials private. Restrict database network access wherever practical.
+Keep database credentials private. 
+
 
 ## 🔗 API Endpoints
 
