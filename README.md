@@ -10,7 +10,6 @@ The portal aims to make the grievance redressal process more accessible, organiz
 - **Backend API:** https://student-grievance-portal-api.onrender.com
 - **GitHub Repository:** [View Source Code](https://github.com/joshillyy/student-grievance-portal)
 
-> Replace `YOUR_NETLIFY_URL` and `YOUR_GITHUB_REPOSITORY_URL` with your actual URLs.
 
 ## 🚀 How to Open and Use the Project
 
